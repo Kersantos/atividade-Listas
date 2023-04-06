@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(241, 240, 243);
+    line-height: 2;
+}
+img{
+    height: 100px;
+    width: 130px;
+}
+ul.first{
+    color: rgb(54, 199, 25);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+ul.second{
+    font-weight: bold;
+}
+div{
+    background: rgb(253, 251, 251);
+    color: #0a0808;
+    width: 600px;
+    height: 600px;
+}
